@@ -1,0 +1,16 @@
+{
+  "name": "@soham54/chess-1",
+  "version": "1.0.7",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
