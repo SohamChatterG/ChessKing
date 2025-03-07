@@ -75,5 +75,4 @@ const Game = () => {
 
 export default Game
 
-// i also want type not looking on the keyboard
-// just like hitesh doe ir maybe il someday why maybe for sure someday i will is not so
+
